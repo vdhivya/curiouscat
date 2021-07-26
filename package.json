@@ -1,0 +1,23 @@
+{
+  "name": "curiouscat",
+  "version": "1.0.0",
+  "description": "this is a sample repo to track my learning in cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vdhivya/curiouscat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vdhivya/curiouscat/issues"
+  },
+  "homepage": "https://github.com/vdhivya/curiouscat#readme",
+  "devDependencies": {
+    "cypress": "^8.0.0"
+  }
+}
